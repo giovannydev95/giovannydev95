@@ -9,9 +9,9 @@ Mis competencias incluyen la capacidad de tomar la iniciativa, una atención met
 
 ## Logros Académicos
 
-- Tecnología en Desarrollo de Software (UNAD)
-- Diplomado en Desarrollo de Software en la nube (UTB)
-- Data Analytics (Google)
+- Tecnología en Desarrollo de Software (UNAD) 🧠
+- Diplomado en Desarrollo de Software en la nube (UTB) ☁️
+- Data Analytics (Google) 🌐
 
 ---
 
